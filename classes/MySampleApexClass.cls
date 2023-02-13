@@ -8,7 +8,7 @@ public class MySampleApexClass {       //Class definition and body
    // Method definition and body
         // do some calculation by dev 1
    //changes by dev 2
-      abc = abc+9;
+      abc = abc+1;
       return abc;
    }
 }
