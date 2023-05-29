@@ -1,14 +1,14 @@
 public class MySampleApexClass {       //Class definition and body
-   public static Integer abc = 10;  //Class Member variable
+   public static Integer x = 10;  //Class Member variable
    public static String myString = ''; //Class Member variable
    
    
    
    public static Integer getCalculatedValue () {
    // Method definition and body
-        // do some calculation by dev 1
-   //changes by dev 2
-      abc = abc+1;
-      return abc;
+        // changes in dev1
+   //changes by dev 1
+      x = x+1;
+      return x;
    }
 }
